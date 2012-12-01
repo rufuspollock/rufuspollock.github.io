@@ -75,12 +75,11 @@ pre {
   font-size: 13px;
   line-height: 18px;
   font-family: "PT Mono", Menlo, Monaco, "Courier New", monospace;
-  background-color: #f5f5f5;
-  border: 1px solid #ccc;
-  border: 1px solid rgba(0, 0, 0, 0.15);
-  -webkit-border-radius: 4px;
-  -moz-border-radius: 4px;
-  border-radius: 4px;
+  background-color: #444;
+  color: white;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
 }
 
 hr {
