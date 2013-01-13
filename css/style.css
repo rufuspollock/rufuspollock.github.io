@@ -1,5 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700);
 @import url(http://fonts.googleapis.com/css?family=PT+Mono);
+@import url(http://fonts.googleapis.com/css?family=Antic+Sans);
 
 body {
   background: url('../img/pattern.png') repeat;
@@ -11,6 +12,16 @@ body {
 p, li {
   line-height: 1.5;
 }
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+  font-family: 'Antic Slab', "Open Sans", OpenSansRegular, sans-serif;
+}
+
+/**********************************************************
+  * Structure
+  *********************************************************/
+
 .container {
   margin: 0 auto;
   width: 750px;
